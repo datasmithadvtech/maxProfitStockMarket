@@ -4,8 +4,8 @@ Each day the stock price fluctuates during the day.  Given an array of stock pri
 
 ## Program overview
 <p float="left">
-  <img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit1.jpg" alt="app img 1" width=300 />
-  <img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit2.jpg" alt="app img 2" width=300 />
+  <img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit1.jpg" alt="app img 1" width=400 height=400 />
+  <img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit2.jpg" alt="app img 2" width=400 height=400 />
 </p>
 
 ```
