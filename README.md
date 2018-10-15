@@ -1,5 +1,19 @@
 # maxProfitStockMarket
-Each day the stock price fluctuates during the day.  Given an array of stock prices, what would be the most efficient way to determine the best time to buy and sell to get the max profit. You must buy before you sell.
+<br>
+
+```
+Each day the stock price fluctuates during the day.
+Given an array of stock prices, what would be the most
+efficient way to determine the best time to buy and sell
+to get the max profit. You must buy before you sell.
+
+Examples:
+--------------------------------------------------------------------------
+
+maxProfit( [ 1, 3, 5, 4, 3, 5, 10, 9, 8, 4, 9]) ->  buy at 1, sell at 10
+maxProfit( [ 2 , 3, 1, 5, 6, 9, 10, 15 14 ]) -> buy at 1, sell at 15
+maxProfit( [ 15, 12, 11, 9, 7, 5, 3, 1] ) -> no profit is possible
+```
 <br>
 
 ## Program overview
