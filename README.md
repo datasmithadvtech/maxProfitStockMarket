@@ -3,9 +3,11 @@ Each day the stock price fluctuates during the day.  Given an array of stock pri
 <br>
 
 ## Program overview
-<img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit1.jpg" alt="app img 1" width=300>
-<img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit2.jpg" alt="app img 2" width=300>
-<br>a
+<p float="left">
+  <img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit1.jpg" alt="app img 1" width=300 />
+  <img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit2.jpg" alt="app img 2" width=300 />
+</p>
+
 ```
 This application reads an array of generated data of user defined size that 
 simulates the stock market. It then determinesthe best time to sell / buy 
