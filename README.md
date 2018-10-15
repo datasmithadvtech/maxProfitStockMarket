@@ -1,7 +1,6 @@
 # maxProfitStockMarket
 <br>
 
-## Problem To Solve
 ```
 Each day the stock price fluctuates during the day.
 Given an array of stock prices, what would be the most
@@ -17,7 +16,7 @@ maxProfit( [ 15, 12, 11, 9, 7, 5, 3, 1] ) -> no profit is possible
 ```
 <br>
 
-## Program overview
+## Program Overview
 <p float="left">
   <img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit1.jpg" alt="app img 1" width=400 height=600 />
   <img src="https://github.com/sanderhelleso/maxProfitStockMarket/blob/master/maxProfit/screenshots/maxProfit2.jpg" alt="app img 2" width=400 height=600 />
