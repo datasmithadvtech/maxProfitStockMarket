@@ -29,9 +29,9 @@ This application reads an array of generated data of user defined size that
 simulates the stock market. It then determinesthe best time to sell / buy 
 to recieve the best potensial profit available of the data.
 
-After generating the result, the application creates a new report CSV file and filles
+After generating the result, the application creates a new report CSV file and filled
 it up with data from the calculations (id, sellValue, buyValue, sellDay, buyDay)
 
-A nic addition to this application could be to generate a chart using the freshly
-created CSV file to further visually display the data. Might implement later.
+A nice addition to this application could be to generate a chart using the freshly
+created CSV file to further visually display the data.
 ```
