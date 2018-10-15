@@ -1,10 +1,12 @@
 # maxProfitStockMarket
 Each day the stock price fluctuates during the day.  Given an array of stock prices, what would be the most efficient way to determine the best time to buy and sell to get the max profit. You must buy before you sell.
+<br>
 
 ## Program overview
 ```
-This application reads an array of generated date of user defined size and determines
-the best time to sell / buy to recieve the best potensial profit available of the data.
+This application reads an array of generated data of user defined size that 
+simulates the stock market. It then determinesthe best time to sell / buy 
+to recieve the best potensial profit available of the data.
 
 After generating the result, the application creates a new report CSV file and filles
 it up with data from the calculations (id, sellValue, buyValue, sellDay, buyDay)
